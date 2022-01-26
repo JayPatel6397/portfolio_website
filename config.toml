@@ -1,7 +1,7 @@
 baseURL = "/"
 theme = "hugo-apero"
 languageCode = "en"
-title = "Jaykumar's Portfolio"
+title = "JAYKUMAR'S PORTFOLIO"
 author = "Jaykumar Patel"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
@@ -31,8 +31,8 @@ enableEmoji = true
   orgName = "Jaykumar Patel"
   orgLocal = ""
   description = "A modern, beautiful, and easily configurable blog theme for Hugo."
-  favicon = "/img/favicon.ico"
-  logo = "/img/blogophonic-mark-dark.png"
+  favicon = "/img/data.ico"
+  logo = "/img/Portfolio.gif"
   mainSections = ["blog", "project"]
   navallcaps = true
   # show/hide social icons in site header & footer
@@ -108,7 +108,7 @@ enableEmoji = true
     weight = 1
   [[menu.header]]
     name = "Blog"
-    title = "Blog"
+    title = "Collection of Personal Blogs"
     url = "/blog/"
     weight = 2
   [[menu.header]]

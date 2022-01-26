@@ -3,7 +3,7 @@
     "path": "G:/Projects/Portfolio/themes/hugo-apero/assets/custom.scss",
     "project_path": "themes/hugo-apero/assets/custom.scss",
     "type": "scss",
-    "hash": "384313776",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1643211183502.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "2,0",
+        "cursorPosition": "9,0",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1643211623,
+    "lastKnownWriteTime": 1643215195,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1643211623802,
+    "last_content_update": 1643215195554,
     "read_only": false,
     "read_only_alternatives": []
 }
