@@ -1,0 +1,18 @@
+
+// set your custom colors here
+$siteBgColorCustom: #3A2230; 
+$sidebarBgColorCustom: #59253B;
+$textColorCustom: #C97797;
+$sidebarTextColorCustom: #C97797;
+$headlineColorCustom: #72D6FA;
+$headingColorCustom: #72D6FA;
+$bodyLinkColorCustom: #72D6FA;
+$navLinkColorCustom: #C97797;
+$sidebarLinkColorCustom: #C97797;
+$footerTextColorCustom: #706E6C;
+$buttonTextColorCustom: #FFFFFF;
+$buttonHoverTextColorCustom: #FFFFFF;
+$buttonBgColorCustom: #516DB0;
+$buttonHoverBgColorCustom: #2c2857;
+$borderColorCustom: #B4C0DD;
+
